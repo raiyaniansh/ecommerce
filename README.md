@@ -24,6 +24,4 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://user-images.githubusercontent.com/114207841/232205170-ce02dcfb-cc71-40ef-b8b8-764ca71960e8.jpg" width=15% height=35%>
 </p>
 
-
-
-<imp src="https://user-images.githubusercontent.com/114207841/232205354-217ecffc-53c8-4dad-b9ca-6586e93398f7.mp4">
+<img src="https://user-images.githubusercontent.com/114207841/232205354-217ecffc-53c8-4dad-b9ca-6586e93398f7.mp4">
